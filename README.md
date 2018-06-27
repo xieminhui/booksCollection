@@ -1,2 +1,2 @@
 # booksCollection
-bookCollection
+booksCollection
